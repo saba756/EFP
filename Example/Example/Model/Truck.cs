@@ -5,9 +5,7 @@ using System.Threading.Tasks;
 
 namespace Example.Model
 {
-    public class Cars
+    public class Truck
     {
-
-        string name { get; set; }
     }
 }
